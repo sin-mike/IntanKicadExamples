@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RHS2116_datasheet
+D Symplified symbol from the datasheet
+F https://intantech.com/files/Intan_RHS2116_datasheet.pdf
+$ENDCMP
+#
+$CMP RHS2116_topo
+D Topologycally correct symbol
+F https://intantech.com/files/Intan_RHS2116_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

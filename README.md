@@ -5,4 +5,4 @@ Prepared with Kicad 5.1.9
 
 ## Example for RHS2116 with VLDS disabled
 
-![](./pics/RHS2116 VLDS diabled example.png)
+![](pics/RHS2116 VLDS diabled example.png)
